@@ -5,7 +5,7 @@ This is a simple console calculator built with C# to perform basic arithmetic op
 ## Technologies Used
 
 - C#
-- .NET
+- .NET (9.0)
 
 ## How to Run
 
